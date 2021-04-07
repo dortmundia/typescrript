@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(111, 111, 111);
+  background-size: cover;
+  background-image: url("TypeScriptBack.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+p {
+  margin: 5px;
+  text-indent: 20px;
+}
+
+span{
+  color: #087AC8;
+  font-weight:bold;
+}
+
+#content {
+  margin-bottom: 20px;
+  margin-top: 40px;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 30px;
+  align: center;
+  width:80%;
+  orientation: center;
+}
+
+#elemszelektor{
+  font-family: Courier New (monospace);
+  font-weight: bold;
+}
+
+a {
+  color: black;
+}
+
+#picture {
+  float: right;
+  height: 257px;
+}
+
+h1 {
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+li {
+  margin-left: 15px;
+  list-style-type: square;
+}
+
+table {
+  width: 80%;
+  margin: auto;
+}
+
+a:visited,a:link, a:hover{
+  text-decoration: underline;
+}
+a:hover{
+	color:#087AC8;
+}
